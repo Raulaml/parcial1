@@ -314,3 +314,4 @@ Received Import Request.
 Start importing Assets/Shaders using Guid(f6c09212b02225142ba688988cb8873d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f550ab230456f7d4165779866a4cfcfa') in 0.002860 seconds
   Import took 0.004595 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
